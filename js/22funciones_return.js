@@ -45,4 +45,4 @@ console.log(`Impuesto a pagar: ${impuesto}`);
 pago = totalPagar(total,impuesto);
 
 //Muestro valor total
-console.log(`Total a pagar: ${pago}`);
+console.log(`Total a pagar: $${pago}`);
